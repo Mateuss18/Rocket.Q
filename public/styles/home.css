@@ -15,7 +15,7 @@ header{
 #bg{
     grid-area: left;
 
-    background: url(/assets/home-bg-img.svg) no-repeat top/contain;
+    background: url(/images/home-bg-img.svg) no-repeat top/contain;
     background-position-x: -10rem;
 }
 
@@ -59,7 +59,7 @@ input, button, .button{
 
 .separator div:nth-child(2){
     font-family: 'Poppins', sans-serif;
-    color: var(--grey-blue);
+    color: var(--gray-blue);
     font-weight: 400;
     padding: 0 1.35rem;
     line-height: 0;
