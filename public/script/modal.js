@@ -10,7 +10,7 @@ export default function Modal(){
         modalWrapper.classList.add("active")
     }
     function close(){
-        //funcionalidade de remover a classe active para a modal
+        //funcionalidade de remover a classe active da modal
         modalWrapper.classList.remove("active")
     }
 
